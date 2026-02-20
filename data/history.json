@@ -1,0 +1,665 @@
+[
+    {
+        "title": "Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024",
+        "link": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html",
+        "source": "The Hacker News",
+        "type": "Zero Day",
+        "severity": "\ud83d\udfe0 HIGH",
+        "date": "2026-02-18 13:03:17.161852"
+    },
+    {
+        "title": "3 Ways to Start Your Intelligent Workflow Program",
+        "link": "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html",
+        "source": "The Hacker News",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.161968"
+    },
+    {
+        "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
+        "link": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
+        "source": "The Hacker News",
+        "type": "Malware",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.161992"
+    },
+    {
+        "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
+        "link": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
+        "source": "The Hacker News",
+        "type": "Exploit",
+        "severity": "\ud83d\udfe0 HIGH",
+        "date": "2026-02-18 13:03:17.162008"
+    },
+    {
+        "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
+        "link": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
+        "source": "The Hacker News",
+        "type": "Data Breach",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.162022"
+    },
+    {
+        "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+        "link": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+        "source": "The Hacker News",
+        "type": "Malware",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.162056"
+    },
+    {
+        "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
+        "link": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
+        "source": "The Hacker News",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.162107"
+    },
+    {
+        "title": "SmartLoader Attack Uses Trojanized Oura MCP Server to Deploy StealC Infostealer",
+        "link": "https://thehackernews.com/2026/02/smartloader-attack-uses-trojanized-oura.html",
+        "source": "The Hacker News",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.162126"
+    },
+    {
+        "title": "My Day Getting My Hands Dirty with an NDR System",
+        "link": "https://thehackernews.com/2026/02/my-day-getting-my-hands-dirty-with-ndr.html",
+        "source": "The Hacker News",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.162140"
+    },
+    {
+        "title": "Microsoft Finds \u201cSummarize with AI\u201d Prompts Manipulating Chatbot Recommendations",
+        "link": "https://thehackernews.com/2026/02/microsoft-finds-summarize-with-ai.html",
+        "source": "The Hacker News",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.162156"
+    },
+    {
+        "title": "Microsoft says bug causes Copilot to summarize confidential emails",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
+        "source": "BleepingComputer",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.322278"
+    },
+    {
+        "title": "Glendale man gets 5 years in prison for role in darknet drug ring",
+        "link": "https://www.bleepingcomputer.com/news/security/glendale-man-gets-5-years-in-prison-for-role-in-darknet-drug-trafficking-operation/",
+        "source": "BleepingComputer",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.322511"
+    },
+    {
+        "title": "Spain orders NordVPN, ProtonVPN to block LaLiga piracy sites",
+        "link": "https://www.bleepingcomputer.com/news/legal/spain-orders-nordvpn-protonvpn-to-block-laliga-piracy-sites/",
+        "source": "BleepingComputer",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.322557"
+    },
+    {
+        "title": "Flaws in popular VSCode extensions expose developers to attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/flaws-in-popular-vscode-extensions-expose-developers-to-attacks/",
+        "source": "BleepingComputer",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.322576"
+    },
+    {
+        "title": "Chinese hackers exploiting Dell zero-day flaw since mid-2024",
+        "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-dell-zero-day-flaw-since-mid-2024/",
+        "source": "BleepingComputer",
+        "type": "Zero Day",
+        "severity": "\ud83d\udfe0 HIGH",
+        "date": "2026-02-18 13:03:17.322604"
+    },
+    {
+        "title": "Notepad++ boosts update security with \u2018double-lock\u2019 mechanism",
+        "link": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-boosts-update-security-with-double-lock-mechanism/",
+        "source": "BleepingComputer",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.322621"
+    },
+    {
+        "title": "Microsoft Teams outage affects users in United States, Europe",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/",
+        "source": "BleepingComputer",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.322634"
+    },
+    {
+        "title": "What 5 Million Apps Revealed About Secrets in JavaScript",
+        "link": "https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/",
+        "source": "BleepingComputer",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.322648"
+    },
+    {
+        "title": "New Keenadu backdoor found in Android firmware, Google Play apps",
+        "link": "https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/",
+        "source": "BleepingComputer",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:17.322661"
+    },
+    {
+        "title": "Poland arrests suspect linked to Phobos ransomware operation",
+        "link": "https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/",
+        "source": "BleepingComputer",
+        "type": "Ransomware",
+        "severity": "\ud83d\udd34 CRITICAL",
+        "date": "2026-02-18 13:03:17.322673"
+    },
+    {
+        "title": "Singapore &amp; Its 4 Major Telcos Fend Off Chinese Hackers",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/singapore-major-telcos-fend-chinese-hackers",
+        "source": "darkreading",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:18.279863"
+    },
+    {
+        "title": "Supply Chain Attack Embeds Malware in Android Devices",
+        "link": "https://www.darkreading.com/mobile-security/supply-chain-attack-embeds-malware-android-devices",
+        "source": "darkreading",
+        "type": "Malware",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:18.279983"
+    },
+    {
+        "title": "Poland Energy Survives Attack on Wind, Solar Infrastructure",
+        "link": "https://www.darkreading.com/threat-intelligence/poland-energy-attack-wind-solar-infrastructure",
+        "source": "darkreading",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:18.280003"
+    },
+    {
+        "title": "RMM Abuse Explodes as Hackers Ditch Malware",
+        "link": "https://www.darkreading.com/application-security/rmm-abuse-explodes-hackers-ditch-malware",
+        "source": "darkreading",
+        "type": "Malware",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:18.280017"
+    },
+    {
+        "title": "ClickFix Attacks Abuses DNS Lookup Command to Deliver ModeloRAT",
+        "link": "https://www.darkreading.com/endpoint-security/clickfix-attacks-dns-lookup-command-modelorat",
+        "source": "darkreading",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:18.280032"
+    },
+    {
+        "title": "Operation DoppelBrand: Weaponizing Fortune 500 Brands",
+        "link": "https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands",
+        "source": "darkreading",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:18.280045"
+    },
+    {
+        "title": "260K+ Chrome Users Duped by Fake AI Browser Extensions",
+        "link": "https://www.darkreading.com/cyber-risk/chrome-fake-ai-browser-extensions",
+        "source": "darkreading",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:18.280059"
+    },
+    {
+        "title": "Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities",
+        "link": "https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities",
+        "source": "darkreading",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:18.280072"
+    },
+    {
+        "title": "Microsoft Under Pressure to Bolster Defenses for BYOVD Attacks",
+        "link": "https://www.darkreading.com/application-security/microsoft-under-pressure-defenses-byovd-attacks",
+        "source": "darkreading",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:18.280094"
+    },
+    {
+        "title": "Nation-State Hackers Put Defense Industrial Base Under Siege",
+        "link": "https://www.darkreading.com/cyber-risk/nation-state-hackers-defense-industrial-base-under-siege",
+        "source": "darkreading",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "date": "2026-02-18 13:03:18.280107"
+    },
+    {
+        "title": "Polish police detain alleged cybercriminal with Phobos ransomware ties",
+        "link": "https://therecord.media/poland-phobos-ransomware-arrest",
+        "source": "The Record",
+        "type": "Ransomware",
+        "severity": "\ud83d\udd34 CRITICAL",
+        "summary": "A 47-year-old man was arrested by Polish police for his alleged involvement with the Phobos ransomware operation.",
+        "date": "2026-02-18 13:34:56.619241"
+    },
+    {
+        "title": "Canada Goose says leaked customer transaction data did not come from company systems",
+        "link": "https://therecord.media/canada-goose-says-leaked-customer-data-was-not-from-company",
+        "source": "The Record",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "On Saturday afternoon, the ShinyHunters cybercriminal organization claimed to have stolen more than 600,000 records from the company containing personal information.",
+        "date": "2026-02-18 13:34:56.619258"
+    },
+    {
+        "title": "Citizen Lab: Kenyan authorities used Cellebrite to break into phone of dissident",
+        "link": "https://therecord.media/spyware-kenya-cellebrite-activist",
+        "source": "The Record",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "Traces of commercial surveillance technology manufactured by the Israeli spyware maker Cellebrite were found on a prominent Kenyan dissident\u2019s phone, the latest in a series of abuses of the technology targeting civil society.",
+        "date": "2026-02-18 13:34:56.619263"
+    },
+    {
+        "title": "Hackers target supporters of Iran protests in new espionage campaign",
+        "link": "https://therecord.media/hackers-target-iran-protest-supporters-cyber-campaign",
+        "source": "The Record",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "The campaign began in early January, shortly after mass nationwide demonstrations erupted across Iran calling for an end to the Islamic Republic system.",
+        "date": "2026-02-18 13:34:56.619267"
+    },
+    {
+        "title": "Dutch police arrest man who refused to delete confidential files shared by mistake",
+        "link": "https://therecord.media/netherlands-arrest-confidential-files-police",
+        "source": "The Record",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "Dutch police have arrested a 40-year-old man who refused to delete confidential documents law enforcement accidentally sent to him.",
+        "date": "2026-02-18 13:34:56.619271"
+    },
+    {
+        "title": "Critical Flaws Found in Four VS Code Extensions with Over 125 Million Installs",
+        "link": "https://thehackernews.com/2026/02/critical-flaws-found-in-four-vs-code.html",
+        "source": "The Hacker News",
+        "type": "General",
+        "severity": "\ud83d\udd34 CRITICAL",
+        "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities in four popular Microsoft Visual Studio Code (VS Code) extensions that, if successfully exploited, could allow threat actors to steal local files and execute code remotely.\nThe extensions, which have been collectively install",
+        "date": "2026-02-18 13:34:57.988655"
+    },
+    {
+        "title": "Cybersecurity Tech Predictions for 2026: Operating in a World of Permanent Instability",
+        "link": "https://thehackernews.com/2026/02/cybersecurity-tech-predictions-for-2026.html",
+        "source": "The Hacker News",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "In 2025, navigating the digital seas still felt like a matter of direction. Organizations charted routes, watched the horizon, and adjusted course to reach safe harbors of resilience, trust, and compliance.\nIn 2026, the seas are no longer calm between storms. Cybersecurity now unfolds in a state of&",
+        "date": "2026-02-18 13:34:57.988669"
+    },
+    {
+        "title": "Vulnerabilities in Popular PDF Platforms Allowed Account Takeover, Data Exfiltration",
+        "link": "https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/",
+        "source": "Security Week",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>Novee researchers discovered 16 vulnerabilities in Foxit and Apryse PDF tools that could have been exploited via malicious documents or URLs.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerabilities-in-popular-pdf-platforms-allowed-account-takeover-data-exfiltration/\">Vulnerabilities",
+        "date": "2026-02-18 13:34:59.099098"
+    },
+    {
+        "title": "CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5",
+        "link": "https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/",
+        "source": "Security Week",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>The vulnerability added to CISA\u2019s KEV catalog affects ThreatSonar Anti-Ransomware and it was patched in 2024.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/\">CISA: Hackers Exploiting Vulnerability in Product o",
+        "date": "2026-02-18 13:34:59.099110"
+    },
+    {
+        "title": "Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction",
+        "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/",
+        "source": "Security Week",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/\">Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction</a>",
+        "date": "2026-02-18 13:34:59.099114"
+    },
+    {
+        "title": "Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group",
+        "link": "https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/",
+        "source": "Security Week",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024.</p>\n<p>The post <a href=\"https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/\">Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespion",
+        "date": "2026-02-18 13:34:59.099118"
+    },
+    {
+        "title": "VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence",
+        "link": "https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/",
+        "source": "Security Week",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>The latest funding round was led by Sorenson Capital and brings the total investment to $45 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/\">VulnCheck Raises $25 Million in Series B Funding to Scal",
+        "date": "2026-02-18 13:34:59.099122"
+    },
+    {
+        "title": "Hackers Offer to Sell Millions of Eurail User Records",
+        "link": "https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/",
+        "source": "Security Week",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>Eurail has confirmed that the stolen data is up for sale, but it\u2019s still trying to determine how many individuals are impacted.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/\">Hackers Offer to Sell Millions of Eurail User Records</a> a",
+        "date": "2026-02-18 13:34:59.099126"
+    },
+    {
+        "title": "API Threats Grow in Scale as AI Expands the Blast Radius",
+        "link": "https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/",
+        "source": "Security Week",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>New research shows attackers increasingly abusing APIs at machine speed as AI-driven systems widen exposure and amplify impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/\">API Threats Grow in Scale as AI Expands the Blast Radius",
+        "date": "2026-02-18 13:34:59.099129"
+    },
+    {
+        "title": "Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems",
+        "link": "https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/",
+        "source": "Security Week",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>As nation-state actors, ransomware groups, and aging infrastructure collide, organizations must rethink how they defend critical operations through resilience, visibility, and modern security strategies.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-t",
+        "date": "2026-02-18 13:34:59.099133"
+    },
+    {
+        "title": "Man Linked to Phobos Ransomware Arrested in Poland",
+        "link": "https://www.securityweek.com/man-linked-to-phobos-ransomware-arrested-in-poland/",
+        "source": "Security Week",
+        "type": "Ransomware",
+        "severity": "\ud83d\udd34 CRITICAL",
+        "summary": "<p>Polish police said they found evidence of cybercrime on the 47-year-old suspect\u2019s devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/man-linked-to-phobos-ransomware-arrested-in-poland/\">Man Linked to Phobos Ransomware Arrested in Poland</a> appeared first on <a href=\"https://www.secur",
+        "date": "2026-02-18 13:34:59.099136"
+    },
+    {
+        "title": "3 Threat Groups Started Targeting ICS/OT in 2025: Dragos",
+        "link": "https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/",
+        "source": "Security Week",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>Industrial cybersecurity firm Dragos has published its 9th Year in Review OT/ICS Cybersecurity Report.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-threat-groups-started-targeting-ics-ot-in-2025-dragos/\">3 Threat Groups Started Targeting ICS/OT in 2025: Dragos\u00a0</a> appeared first on <a",
+        "date": "2026-02-18 13:34:59.099140"
+    },
+    {
+        "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+        "link": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+        "source": "Krebs on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of comprom",
+        "date": "2026-02-18 13:35:00.021248"
+    },
+    {
+        "title": "Patch Tuesday, January 2026 Edition",
+        "link": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+        "source": "Krebs on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
+        "date": "2026-02-18 13:35:00.021266"
+    },
+    {
+        "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+        "link": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+        "source": "Krebs on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cyb",
+        "date": "2026-02-18 13:35:00.021270"
+    },
+    {
+        "title": "The Kimwolf Botnet is Stalking Your Local Network",
+        "link": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+        "source": "Krebs on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the",
+        "date": "2026-02-18 13:35:00.021274"
+    },
+    {
+        "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+        "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+        "source": "Krebs on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme runni",
+        "date": "2026-02-18 13:35:00.021278"
+    },
+    {
+        "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
+        "link": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
+        "source": "Krebs on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation\u2019s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to countering disinformation, fraud and corruption. These shifts, ",
+        "date": "2026-02-18 13:35:00.021282"
+    },
+    {
+        "title": "Most Parked Domains Now Serving Malicious Content",
+        "link": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
+        "source": "Krebs on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redir",
+        "date": "2026-02-18 13:35:00.021287"
+    },
+    {
+        "title": "Microsoft Patch Tuesday, December 2025 Edition",
+        "link": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
+        "source": "Krebs on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
+        "date": "2026-02-18 13:35:00.021290"
+    },
+    {
+        "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
+        "link": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+        "source": "Krebs on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+        "date": "2026-02-18 13:35:00.021298"
+    },
+    {
+        "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+        "link": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+        "source": "Krebs on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card",
+        "date": "2026-02-18 13:35:00.021303"
+    },
+    {
+        "title": "AI Found Twelve New Vulnerabilities in OpenSSL",
+        "link": "https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html",
+        "source": "Schneier on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>The title of the post is&#8221;<a href=\"https://aisle.com/blog/what-ai-security-research-looks-like-when-it-works\">What AI Security Research Looks Like When It Works</a>,&#8221; and I agree:</p>\n<blockquote><p>In the latest <a href=\"https://openssl-library.org/news/vulnerabilities/\">OpenSSL secur",
+        "date": "2026-02-18 13:35:00.343557"
+    },
+    {
+        "title": "Side-Channel Attacks Against LLMs",
+        "link": "https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html",
+        "source": "Schneier on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>Here are three papers describing different side-channel attacks against LLMs.</p>\n<p>&#8220;<a href=\"https://arxiv.org/html/2410.17175v1\">Remote Timing Attacks on Efficient Language Model Inference</a>&#8220;:</p>\n<blockquote><p><b>Abstract:</b> Scaling up language models has significantly increa",
+        "date": "2026-02-18 13:35:00.343566"
+    },
+    {
+        "title": "The Promptware Kill Chain",
+        "link": "https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html",
+        "source": "Schneier on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p><a href=\"https://www.schneier.com/wp-content/uploads/2026/02/promptware-kill-chain.jpg\"><img alt=\"The promptware kill chain: initial access, privilege escalation, reconnaissance, persistence, command &#38; control, lateral movement, action on objective\" src=\"https://www.schneier.com/wp-content/up",
+        "date": "2026-02-18 13:35:00.343571"
+    },
+    {
+        "title": "Upcoming Speaking Engagements",
+        "link": "https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html",
+        "source": "Schneier on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>This is a current list of where and when I am scheduled to speak:</p>\n<ul>\n<li>I&#8217;m speaking at <a href=\"https://mindfulai.ca/events/mairi-featured-speaker-bruce-schneier-integrity-in-a-world-of-ai.php\">Ontario Tech University</a> in Oshawa, Ontario, Canada, at 2 PM ET on Thursday, February ",
+        "date": "2026-02-18 13:35:00.343574"
+    },
+    {
+        "title": "Friday Squid Blogging: Do Squid Dream?",
+        "link": "https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html",
+        "source": "Schneier on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>An <a href=\"https://sharksandco.com/do-squid-dream-what-scientists-think-about-cephalopod-sleep-1-4236/\">exploration</a> of the interesting question.</p>",
+        "date": "2026-02-18 13:35:00.343578"
+    },
+    {
+        "title": "3D Printer Surveillance",
+        "link": "https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html",
+        "source": "Schneier on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>New York is <a href=\"https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/\">contemplating</a> a bill that adds surveillance to 3D printers:</p>\n<blockquote><p>New York\u2019s 2026\u00ad2027 executive budget bill (S.9005 / A.10005) includes language that should alarm every ma",
+        "date": "2026-02-18 13:35:00.343581"
+    },
+    {
+        "title": "Rewiring Democracy Ebook is on Sale",
+        "link": "https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html",
+        "source": "Schneier on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>I just noticed that the ebook version of <a href=\"https://www.schneier.com/books/rewiring-democracy/\"><cite>Rewiring Democracy</cite></a> is on sale for $5 on <a href=\"https://www.amazon.com/gp/product/B0DTNZ2H86\">Amazon</a>, <a href=\"https://books.apple.com/us/book/rewiring-democracy/id674083980",
+        "date": "2026-02-18 13:35:00.343585"
+    },
+    {
+        "title": "Prompt Injection Via Road Signs",
+        "link": "https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html",
+        "source": "Schneier on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>Interesting research: &#8220;<a href=\"https://arxiv.org/pdf/2510.00181\">CHAI: Command Hijacking Against Embodied AI</a>.&#8221;</p>\n<blockquote><p><b>Abstract:</b> Embodied Artificial Intelligence (AI) promises to handle edge cases in robotic vehicle systems where data is scarce by using common-s",
+        "date": "2026-02-18 13:35:00.343589"
+    },
+    {
+        "title": "AI-Generated Text and the Detection Arms Race",
+        "link": "https://www.schneier.com/blog/archives/2026/02/the-ai-generated-text-arms-race.html",
+        "source": "Schneier on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>In 2023, the science fiction literary magazine <cite>Clarkesworld</cite> <a href=\"https://www.npr.org/2023/02/24/1159286436/ai-chatbot-chatgpt-magazine-clarkesworld-artificial-intelligence\">stopped accepting</a> new submissions because so many were generated by artificial intelligence. Near as th",
+        "date": "2026-02-18 13:35:00.343593"
+    },
+    {
+        "title": "LLMs are Getting a Lot Better and Faster at Finding and Exploiting Zero-Days",
+        "link": "https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html",
+        "source": "Schneier on Security",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "<p>This is <a href=\"https://red.anthropic.com/2026/zero-days/\">amazing</a>:</p>\n<blockquote><p>Opus 4.6 is notably better at finding high-severity vulnerabilities than previous models and a sign of how quickly things are moving. Security teams have been automating vulnerability discovery for years, ",
+        "date": "2026-02-18 13:35:00.343597"
+    },
+    {
+        "title": "Student Loan Breach Exposes 2.5M Records",
+        "link": "https://threatpost.com/student-loan-breach-exposes-2-5m-records/180492/",
+        "source": "Threat Post",
+        "type": "Breach",
+        "severity": "\ud83d\udd34 CRITICAL",
+        "summary": "2.5 million people were affected, in a breach that could spell more trouble down the line.",
+        "date": "2026-02-18 13:35:00.843565"
+    },
+    {
+        "title": "Watering Hole Attacks Push ScanBox Keylogger",
+        "link": "https://threatpost.com/watering-hole-attacks-push-scanbox-keylogger/180490/",
+        "source": "Threat Post",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "Researchers uncover a watering hole attack likely carried out by APT TA423, which attempts to plant the ScanBox JavaScript-based reconnaissance tool.",
+        "date": "2026-02-18 13:35:00.843576"
+    },
+    {
+        "title": "Tentacles of \u20180ktapus\u2019 Threat Group Victimize 130 Firms",
+        "link": "https://threatpost.com/0ktapus-victimize-130-firms/180487/",
+        "source": "Threat Post",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "Over 130 companies tangled in sprawling phishing campaign that spoofed a multi-factor authentication system.",
+        "date": "2026-02-18 13:35:00.843583"
+    },
+    {
+        "title": "Ransomware Attacks are on the Rise",
+        "link": "https://threatpost.com/ransomware-attacks-are-on-the-rise/180481/",
+        "source": "Threat Post",
+        "type": "Ransomware",
+        "severity": "\ud83d\udd34 CRITICAL",
+        "summary": "Lockbit is by far this summer\u2019s most prolific ransomware group, trailed by two offshoots of the Conti group.",
+        "date": "2026-02-18 13:35:00.843587"
+    },
+    {
+        "title": "Cybercriminals Are Selling Access to Chinese Surveillance Cameras",
+        "link": "https://threatpost.com/cybercriminals-are-selling-access-to-chinese-surveillance-cameras/180478/",
+        "source": "Threat Post",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "Tens of thousands of cameras have failed to patch a critical, 11-month-old CVE, leaving thousands of organizations exposed.",
+        "date": "2026-02-18 13:35:00.843590"
+    },
+    {
+        "title": "Twitter Whistleblower Complaint: The TL;DR Version",
+        "link": "https://threatpost.com/twitter-whistleblower-tldr-version/180472/",
+        "source": "Threat Post",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "Twitter is blasted for security and privacy lapses by the company\u2019s former head of security who alleges the social media giant\u2019s actions amount to a national security risk.",
+        "date": "2026-02-18 13:35:00.843594"
+    },
+    {
+        "title": "Firewall Bug Under Active Attack Triggers CISA Warning",
+        "link": "https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/",
+        "source": "Threat Post",
+        "type": "General",
+        "severity": "\ud83d\udfe0 HIGH",
+        "summary": "CISA is warning that Palo Alto Networks\u2019 PAN-OS is under active attack and needs to be patched ASAP.",
+        "date": "2026-02-18 13:35:00.843598"
+    },
+    {
+        "title": "Fake Reservation Links Prey on Weary Travelers",
+        "link": "https://threatpost.com/reservation-links-prey-on-travelers/180462/",
+        "source": "Threat Post",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "Fake travel reservations are exacting more pain from the travel weary, already dealing with the misery of canceled flights and overbooked hotels.",
+        "date": "2026-02-18 13:35:00.843601"
+    },
+    {
+        "title": "iPhone Users Urged to Update to Patch 2 Zero-Days",
+        "link": "https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/",
+        "source": "Threat Post",
+        "type": "General",
+        "severity": "\ud83d\udfe0 HIGH",
+        "summary": "Separate fixes to macOS and iOS patch respective flaws in the kernel and WebKit that can allow threat actors to take over devices and are under attack.",
+        "date": "2026-02-18 13:35:00.843605"
+    },
+    {
+        "title": "Google Patches Chrome\u2019s Fifth Zero-Day of the Year",
+        "link": "https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/",
+        "source": "Threat Post",
+        "type": "General",
+        "severity": "\ud83d\udfe2 MEDIUM",
+        "summary": "An insufficient validation input flaw, one of 11 patched in an update this week, could allow for arbitrary code execution and is under active attack.",
+        "date": "2026-02-18 13:35:00.843609"
+    }
+]
