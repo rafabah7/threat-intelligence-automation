@@ -7,6 +7,7 @@ DB_PATH = os.path.join(BASE_DIR, "data", "soc.db")
 
 app = Flask(__name__)
 
+
 @app.route("/")
 def index():
 
@@ -17,8 +18,14 @@ def index():
     cursor.execute("SELECT COUNT(*) FROM alerts")
     total = cursor.fetchone()[0]
 
-    # Conteo por severidad
-    cursor.execute("SELECT severity, COUNT(*) FROM alerts GROUP BY severity")
+    # Conteo por severidad (sin emojis)
+    cursor.execute("""
+    SELECT 
+        REPLACE(REPLACE(REPLACE(REPLACE(severity, '🔴 ', ''), '🟠 ', ''), '🟢 ', ''), '🔵 ', '') AS sev,
+        COUNT(*)
+    FROM alerts
+    GROUP BY sev
+    """)
     severity_data = cursor.fetchall()
 
     # Filtro por severidad
@@ -26,15 +33,15 @@ def index():
 
     if severity_filter:
         cursor.execute("""
-            SELECT title, severity, cvss_score, date
+            SELECT title, severity, cvss_score, date, cve_id, cwe, affected_products, source, link
             FROM alerts
-            WHERE severity = ?
+            WHERE REPLACE(REPLACE(REPLACE(REPLACE(severity, '🔴 ', ''), '🟠 ', ''), '🟢 ', ''), '🔵 ', '') = ?
             ORDER BY date DESC
             LIMIT 20
         """, (severity_filter,))
     else:
         cursor.execute("""
-            SELECT title, severity, cvss_score, date
+            SELECT title, severity, cvss_score, date, cve_id, cwe, affected_products, source, link
             FROM alerts
             ORDER BY date DESC
             LIMIT 20
@@ -107,21 +114,31 @@ def index():
         <div class="card">
             <h3>Latest Alerts</h3>
             <table>
-                <tr>
-                    <th>Title</th>
-                    <th>Severity</th>
-                    <th>CVSS</th>
-                    <th>Date</th>
-                </tr>
-                {% for row in rows %}
-                <tr>
-                    <td>{{ row[0] }}</td>
-                    <td>{{ row[1] }}</td>
-                    <td>{{ row[2] }}</td>
-                    <td>{{ row[3] }}</td>
-                </tr>
-                {% endfor %}
-            </table>
+    <tr>
+        <th>CVE / Title</th>
+        <th>Severity</th>
+        <th>CVSS</th>
+        <th>Type</th>
+        <th>CWE</th>
+        <th>Affected</th>
+        <th>Source</th>
+        <th>Date</th>
+        <th>Link</th>
+    </tr>
+    {% for row in rows %}
+    <tr>
+        <td>{{ row[4] or row[0] }}</td>
+        <td>{{ row[1] }}</td>
+        <td>{{ row[2] }}</td>
+        <td>Vulnerability</td>
+        <td>{{ row[5] or 'N/A' }}</td>
+        <td>{{ row[6] or 'N/A' }}</td>
+        <td>{{ row[7] }}</td>
+        <td>{{ row[3] }}</td>
+        <td><a href="{{ row[8] }}" style="color:#38bdf8;" target="_blank">Ver</a></td>
+    </tr>
+    {% endfor %}
+</table>
         </div>
 
         <script>
@@ -153,13 +170,17 @@ def index():
 def export_csv():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
-    cursor.execute("SELECT title, severity, cvss_score, date FROM alerts ORDER BY date DESC")
+    cursor.execute("""
+        SELECT title, severity, cvss_score, date
+        FROM alerts
+        ORDER BY date DESC
+    """)
     rows = cursor.fetchall()
     conn.close()
 
-    csv_data = "title,severity,cvss,date\\n"
+    csv_data = "title,severity,cvss,date\n"
     for r in rows:
-        csv_data += f"{r[0]},{r[1]},{r[2]},{r[3]}\\n"
+        csv_data += f"{r[0]},{r[1]},{r[2]},{r[3]}\n"
 
     return csv_data, 200, {
         "Content-Type": "text/csv",

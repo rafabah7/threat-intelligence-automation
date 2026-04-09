@@ -1,3 +1,10 @@
+# Debug
+*_debug.py
+
+# Backups
+*.backup
+*.bak
+
 # Python
 __pycache__/
 *.pyc
@@ -18,3 +25,9 @@ Thumbs.db
 
 # Configuración sensible
 .env
+
+# Archivos de datos (NO subir)
+data/history.json
+data/soc.db
+data/*.db
+*.db

@@ -3,7 +3,7 @@
 # ---------------------------
 
 FEEDS = [
-    {"url": "https://clintgibler.com/feed.xml", "name": "Clint Gibler"},
+#    {"url": "https://clintgibler.com/feed.xml", "name": "Clint Gibler"},
     {"url": "https://therecord.media/feed", "name": "The Record"},
     {"url": "https://www.bleepingcomputer.com/feed/", "name": "Bleeping Computer"},
     {"url": "https://thehackernews.com/feeds/posts/default", "name": "The Hacker News"},
@@ -13,10 +13,10 @@ FEEDS = [
     {"url": "https://www.schneier.com/feed/", "name": "Schneier on Security"},
     {"url": "https://threatpost.com/feed/", "name": "Threat Post"},
     {
-      "url": "https://services.nvd.nist.gov/rest/json/cves/2.0?pubStartDate={}&pubEndDate={}&resultsPerPage=20",
-      "name": "NVD",
-      "type": "json"
-   }
+    "url": "https://services.nvd.nist.gov/rest/json/cves/2.0?pubStartDate={}&pubEndDate={}&resultsPerPage=2000",
+    "name": "NVD",
+    "type": "json"
+    }
 ]
 
 # ---------------------------
